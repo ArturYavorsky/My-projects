@@ -1,6 +1,5 @@
 $(function(){
 	owlMain();
-	
 })
 
 function owlMain(){
